@@ -1,4 +1,8 @@
-# -AIO-Server-Turning-an-Old-HP-Laptop-into-a-Multi-OS-Virtualization-Platform
+# AIO-Server-Turning-an-Old-HP-Laptop-into-a-Multi-OS-Virtualization-Platform
+
+https://aman5z.blogspot.com/2024/09/projects.html
+
+
 Objective:
 
 Repurpose old hardware (an HP laptop and Raspberry Pi) to create a fully functional, multi-OS virtualized environment with personal cloud storage, secure IoT integration, VoIP systems, and remote access—all protected by a robust security infrastructure that combines VPN, encryption, firewalls, and intrusion detection.
